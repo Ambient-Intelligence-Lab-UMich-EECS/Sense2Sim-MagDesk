@@ -1,0 +1,328 @@
+{
+  "from": {
+    "bytes": 52490777,
+    "sha256": "6f0914ea9f548367dc01aeb7cc0cb7c46441cf883658423833205c934b5ba952"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1673967,
+    "sha256": "3bf1a99a55976a3cf755ccb872a707f8cae6fa3dc99ac3a06eb1868809341323"
+  },
+  "files": [
+    {
+      "path": "library/S3D-rfm95w_feather.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "S3D-rfm95w_feather",
+      "glb": {
+        "bytes": 10792,
+        "sha256": "2950064fc9908d4accb54fb9215c4aa6e2f2797fb895ebbbfb6a71e84d9e6a61"
+      },
+      "library": "model.glb",
+      "bytes": 14392,
+      "sha256": "2f2d831b47d47546f3b4952c7d74d2184d26cded12ce4f847a877a603e79e9c0"
+    },
+    {
+      "path": "library/SR-computer_desktop_tower_a01.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "SR-computer_desktop_tower_a01",
+      "glb": {
+        "bytes": 1515868,
+        "sha256": "40f4866e8253cc0941a0a28fcc3c194ac5e6315ea5427b68fe77d0f9018a43c0"
+      },
+      "library": "lod1.glb",
+      "bytes": 2021160,
+      "sha256": "3875aa288db2a26a5e658c25a020fadf65c534bed2b0d58a24f6f00faf29c505"
+    },
+    {
+      "path": "library/HUM-hand_right.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "HUM-hand_right",
+      "glb": {
+        "bytes": 54244,
+        "sha256": "e1bc7e3e0aea714d854b92d50cc801f52e888111e0f5d90c9b6e882627b69209"
+      },
+      "library": "model.glb",
+      "bytes": 72328,
+      "sha256": "c5057cca8cd1581161c140f6bfd0acdb91cf19f27f6c35bf888c919f36d46557"
+    },
+    {
+      "path": "library/HUM-hand_right_short.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "HUM-hand_right_short",
+      "glb": {
+        "bytes": 52628,
+        "sha256": "6241984d598917fbdcf28932c10c1a31b34ffcc250df5d2afeecbd779f18eabb"
+      },
+      "library": "model.glb",
+      "bytes": 70172,
+      "sha256": "6f74bb30cc60b6eea8702cff2163bb77a3dd6ba0950b24e20c57456fa2927aee"
+    },
+    {
+      "path": "media/fig1.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig1",
+      "bytes": 199403,
+      "sha256": "d41679aa06521308646a2655b0e9b05cfd6b94fe70873bc64e0146151601889c"
+    },
+    {
+      "path": "media/fig2.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig2",
+      "bytes": 232012,
+      "sha256": "42cd9f7ef8cf8f10f9791a3d15999562f355f3bd1a092c7ee0e8453e9ad59f3f"
+    },
+    {
+      "path": "media/fig3.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig3",
+      "bytes": 316742,
+      "sha256": "c1d30fbc3807c1618a68e899602d0db3147ae9bb272e156369c237c39eac410f"
+    },
+    {
+      "path": "media/fig4.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig4",
+      "bytes": 361264,
+      "sha256": "3ccc7d0eb834609f2ef2d636392e2912bcf9a6c3d114f66732b31c60299767c6"
+    },
+    {
+      "path": "media/fig5.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig5",
+      "bytes": 228478,
+      "sha256": "5aa3f431e3315d9dfad09107649c79273f1a412bb81cd01ac67d91971747608d"
+    },
+    {
+      "path": "media/fig6.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig6",
+      "bytes": 92319,
+      "sha256": "ddd17b293bb0263300f326169e4fd7728296e1e6b8b5c936e99175a9682d4db7"
+    },
+    {
+      "path": "media/fig7.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig7",
+      "bytes": 84952,
+      "sha256": "c03ea4e98f9b3fdaa0448c04214a86765dc35a5d15e612efd8c1a3dc45a6a535"
+    },
+    {
+      "path": "media/fig8.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig8",
+      "bytes": 82573,
+      "sha256": "5046dc81b78bf5f5cff194bbefadc8e29e35035d2f2db1ff0335255454536252"
+    },
+    {
+      "path": "media/fig9.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig9",
+      "bytes": 145259,
+      "sha256": "6aea68147e0585b7b8a35c7400ac35395b32eac4f31c38dc3b99075bd907ba5b"
+    },
+    {
+      "path": "media/fig10.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig10",
+      "bytes": 71590,
+      "sha256": "2907ac9d6ca4176979ef0591495cfa40d349ef5a3f44fc0993e767cb6a333e23"
+    },
+    {
+      "path": "media/fig11.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig11",
+      "bytes": 622765,
+      "sha256": "aefb3cc1c4cda539b988b4b11533422691b9bb49858c1b4e6270ea8c831e0d4b"
+    },
+    {
+      "path": "media/fig12.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig12",
+      "bytes": 95494,
+      "sha256": "dd7e9c850e8f5100439b73d344855d6ad4565134a9c106794a4795d1f7a9e6a3"
+    },
+    {
+      "path": "media/fig13.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig13",
+      "bytes": 395016,
+      "sha256": "bee9613b1598f5ddfb72ade2370c953abc369538ebde8da26f379aa085ba04d5"
+    },
+    {
+      "path": "media/fig14.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig14",
+      "bytes": 326075,
+      "sha256": "1345b096ee9d4df541749476ccf0121688d6188d3aab2f19753024194b94587c"
+    },
+    {
+      "path": "media/fig15.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig15",
+      "bytes": 520175,
+      "sha256": "3a117b29540b717f1fbb81d0d18e2eee7d8e82fa5d329c22fef840e22d179e42"
+    },
+    {
+      "path": "media/fig16.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig16",
+      "bytes": 419223,
+      "sha256": "51cf10bb1463d9a85742535ce64ce32d56981f1e975ae55214c36ab097476af6"
+    },
+    {
+      "path": "media/fig17.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig17",
+      "bytes": 306253,
+      "sha256": "6a6f5721820d1d267e56954e82e8182609988cb9c1370dcfb3978644fbe77a42"
+    },
+    {
+      "path": "media/fig18.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig18",
+      "bytes": 64395,
+      "sha256": "da938017139c46963691fd70b5abff5d3ae1aaddf3b28e390650f8e8768a02af"
+    },
+    {
+      "path": "media/fig19.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig19",
+      "bytes": 111607,
+      "sha256": "186c36146cb4fb1c452b078894cb1b27403ab36affe1eb8c01f360baebb26864"
+    },
+    {
+      "path": "media/fig20.png",
+      "type": "image/png",
+      "kind": "media",
+      "id": "fig20",
+      "bytes": 315821,
+      "sha256": "60b298e48e9717907f11e952936ee20cbdf6a1b92e71bfc39786e52be1e05405"
+    },
+    {
+      "path": "media/dash.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "dash",
+      "bytes": 2102557,
+      "sha256": "ca3b0862341824965f07ebcfd06b01f011f6689b37684c1973401099ee0a4308"
+    },
+    {
+      "path": "media/fieldviz.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "fieldviz",
+      "bytes": 593072,
+      "sha256": "110a072a4b28f9a3b9486ec87e579496ac6ddd593572d543407f25ae37d10b45"
+    },
+    {
+      "path": "media/under.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "under",
+      "bytes": 995047,
+      "sha256": "0f6731790ca0822061e91bd99b8f8fcbba90d1bf137b2d94f6a0241e16cf491f"
+    },
+    {
+      "path": "media/track3d.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "track3d",
+      "bytes": 3425764,
+      "sha256": "e295d16dc2fb348c844c8a9debb6775fdbc582cfb578123c12f9f06501d757a7"
+    },
+    {
+      "path": "media/tangibles.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "tangibles",
+      "bytes": 3517395,
+      "sha256": "3a0ed212ea60d2da043a380d29b184354a9b8ca5d25ab35cdc8f69802c79f058"
+    },
+    {
+      "path": "media/draw2d.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "draw2d",
+      "bytes": 1709205,
+      "sha256": "a95558b82eb400b1bcef80484610307e2fa34774401fcee873298e0c12b3e8bc"
+    },
+    {
+      "path": "media/draw3d.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "draw3d",
+      "bytes": 2815999,
+      "sha256": "c8a44f59abed30544dd62b04209ee3d20b10cee942f3308c4a3af2eb2361b255"
+    },
+    {
+      "path": "media/bunny.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "bunny",
+      "bytes": 5718028,
+      "sha256": "7c71a1aed227bc57c04c73b116ca2769a57cdb80f2ae7a494779ec27c764a6ea"
+    },
+    {
+      "path": "media/tower.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "tower",
+      "bytes": 7644977,
+      "sha256": "e7676be8bf72d44c07b8782e599467d2a5b68ac461a71da801eec903adbfd0b4"
+    },
+    {
+      "path": "media/hockey.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "hockey",
+      "bytes": 2295060,
+      "sha256": "f9c4f4862c768996016dcb5647bbb0e0c1a2fabc50c73de2886a77604cdc95a0"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "kb": true,
+      "bytes": 896252,
+      "sha256": "4d0b7932445023bb0aa519a3b745ed44498689d3bdfd22644bfdd46b694a185a"
+    },
+    {
+      "path": "world/magdesk-desk.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 2005183,
+      "sha256": "4980a8f62c4a985b2fd62c6ca71b739dd239a933cb6bf6a3014f562039437fc8"
+    },
+    {
+      "path": "about/assets.jpg",
+      "type": "image/jpeg",
+      "kind": "about",
+      "bytes": 255701,
+      "sha256": "a51c4183387e14b4b30743bf27ce09d141f5416df282c4171cdf4dd71a7e139f"
+    }
+  ]
+}
